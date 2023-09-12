@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    height: 100vh;
+    background-image: url(../img/bg1.jfif);
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col{
+    width: 20%;
+}
+.container .row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.paragragh p{
+    width: 600px;
+}
+.Education-Leaders{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./bg2.webp);
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.profile-container {
+    position: relative;
+    display: inline-block;
+  }
+  .dots-container {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .dot {
+    width: 4px;
+    height: 4px;
+    background-color: blue;
+    border-radius: 50%;
+    margin:3px;
+  }
+.box{
+    margin:1px;
+}
+.demo{
+    width:200px !important;
+}
+.bor{
+    border: solid 1px black;
+    border-radius: 50%;
+}
+.Testimonials img{
+    width: 50px;
+    height: 50px;
+}
+.About{
+    width: 40vw;
+}
+.boxx{
+    width: 200px !important; ;
+}
+.wd{
+    width: 300px;
+}
